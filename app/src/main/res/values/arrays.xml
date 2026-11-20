@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tailles de police -->
+    <string-array name="tailles_libelles">
+        <item>Petite (14 sp)</item>
+        <item>Moyenne (16 sp)</item>
+        <item>Grande (20 sp)</item>
+    </string-array>
+    <string-array name="tailles_valeurs">
+        <item>14</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+
+    <!-- Couleurs -->
+    <string-array name="couleurs_libelles">
+        <item>Noir</item>
+        <item>Bleu</item>
+        <item>Vert</item>
+        <item>Rouge</item>
+        <item>Violet</item>
+    </string-array>
+    <string-array name="couleurs_valeurs">
+        <item>#000000</item>
+        <item>#0000FF</item>
+        <item>#008000</item>
+        <item>#FF0000</item>
+        <item>#800080</item>
+    </string-array>
+</resources>
